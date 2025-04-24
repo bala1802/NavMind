@@ -1,8 +1,6 @@
 # NavMind
 A RAG (Retrieval-Augmented Generation) based application that tracks and retrieves browser history using semantic search capabilities.
 
-A RAG (Retrieval-Augmented Generation) based application that tracks and retrieves browser history using semantic search capabilities.
-
 ## Overview
 
 Browser Retriever is a sophisticated system that:
